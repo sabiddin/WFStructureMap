@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/WFStructureMap/.vs
+/WFStructureMap/WFStructureMap.Data/bin/Debug
+/WFStructureMap/WFStructureMap.Data/obj
+/WFStructureMap/WFStructureMap.Business/bin/Debug
+/WFStructureMap/WFStructureMap.Business/obj
+/WFStructureMap/WFStructureMap.Web/bin
+/WFStructureMap/WFStructureMap.Web/obj
